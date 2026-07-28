@@ -1,7 +1,7 @@
 # Hi there, I'm Hassan Leghlmi! 👋✨
 
 ### 🎧 Backend Developer | The VibeCoder 🚀
-> *"Passionate about backend architecture, database design, and robust application logic — keeping systems clean, reliable, and vibes high."* ☕⚡
+> *"Passionate about backend architecture, database design, and application logic — currently diving into AI / ML while keeping systems clean & vibes high." ☕⚡
 
 ---
 
