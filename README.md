@@ -31,12 +31,7 @@
 
 ---
 
-## 📈 GitHub Stats & Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=L-Hassan&show_icons=true&theme=tokyonight&hide_border=true" alt="Hassan's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=L-Hassan&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" width="48%" />
-</div>
 
 ---
 
